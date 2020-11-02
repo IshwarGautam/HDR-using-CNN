@@ -5,4 +5,5 @@ These are the steps covered in this course:
 3. Using that data to create model
 4. Using that model to predict new digits
 
-I have already made video on Handwritten digit recognition using SVC (Support Vector Classifier) and also I have converted my project into GUI (Graphical User Interface). If you are interested, you can find the YouTube link at the top of my ipynb file (HDR using CNN.ipynb)
+I have already made video on Handwritten digit recognition using SVC (Support Vector Classifier) and also I have converted my project into GUI (Graphical User Interface). If you are interested, Click on this link:
+https://www.youtube.com/channel/UC4Wf9XNPsbXwQqfKlUZfmtw
